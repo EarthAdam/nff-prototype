@@ -1,8 +1,17 @@
 # NFF (Non Fungible Forests)
 The purpose of this project is to build an NFT Collection where every NFT represents one hectare of Earth. Satellite imagery is used to determine the historical quality of vegetation within the hectare, and as organizations integrate carbon pricing into Environmental Sustainability Governance (ESG), this market of environmental integrity histories will help us save the world from a climate disaster.
 
+## Approach to linking NTFs to ecosystem integrity
+By linking each hectare to an NFT, we are building a collection of largely agreed upon metrics to evaluate the ecological integrity of that hectare, and then let the market determine the value of the sustainability of that hectare. As adoption grows, and more demand for environmental accountability increases, this is a prototype of how we could accelerate sustainable ecosystem practices. 
+
+### Some defining metrics
+1. Create a historical timeline of the NDVI values in that hectare. Include insights about significant ecological events if possible<br>
+![](NDVItimeline.png)<br>
+1. Define the [ecoregion](https://databasin.org/maps/new/#datasets=68635d7c77f1475f9b6c1d1dbe0a4c4c) of the hectare.<br>
+![](ecoregions.png)<br>
+
 ## NFF Collection
-A library of early prototypes of the NFF functionality. Initially just getting bare bones functionality working
+A library of early prototypes of the NFF functionality. Initially just getting bare bones functionality working<br>
 [https://opensea.io/collection/non-fungible-forests](https://bit.ly/3BMchy0)<br>
 ![](nff_c1_1_actual.gif)![](collection1_nff1.gif)<br>
 
