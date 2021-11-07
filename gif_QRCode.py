@@ -7,7 +7,7 @@ import os
   
 version, level, qr_name = myqr.run(
   # Add string or a URL (add http(s):// before it)
-  words="https://bit.ly/3mQZ9n3",     
+  words="https://bit.ly/3ERzHnr",     
 
   # Set the highest fault tolerance rate
   version=1,               
@@ -18,7 +18,7 @@ version, level, qr_name = myqr.run(
 
   # Combining QR code + Image
   #Add file name eg. your_image.gif
-  picture="nff1.gif", 
+  picture="nff_c1_1_actual.gif", 
 
   # Color QR code            
   colorized=True,    
@@ -34,7 +34,7 @@ version, level, qr_name = myqr.run(
   brightness=1.0,       
 
   # Save the file name, the format can be jpg, png, bmp, gif      
-  save_name="final.gif",
+  save_name="collection1_nff1.gif",
 
   #Control location      
   save_dir=os.getcwd()          
