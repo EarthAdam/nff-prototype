@@ -1,23 +1,25 @@
 # nff-prototype
 First stab at NFF
 
-### NFF Collection
+## NFF Collection
 A library of early prototypes of the NFF functionality. Initially just getting bare bones functionality working
-![](nff_c1_1_actual) ![](final_collection.gif)
-[https://opensea.io/collection/non-fungible-forests](https://opensea.io/collection/non-fungible-forests)
-
-*Collectible #1*: 
-This one is a NDVI timelapse from NASA's EODIS Worldview 
-![](collection.gif) ![](collection1_nff1.gif)
-[https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/23855157975821296213591829291147014821979655616936360978435112360207414460417](https://bit.ly/3EPZix8)
+[https://opensea.io/collection/non-fungible-forests](https://bit.ly/3BMchy0)<br>
+![](nff_c1_1_actual.gif)![](collection1_nff1.gif)<br>
 
 
+###Collectible #1: 
+This one is a NDVI timelapse from NASA's EODIS Worldview<br>
+[https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/23855157975821296213591829291147014821979655616936360978435112360207414460417](https://bit.ly/3EPZix8)<br>
+![](collection.gif)![](final_collection.gif)<br>
+
+
+---
 ### NFF#1 (Original)
 This one is was made using a screencapture of the Global Forest Watch viewer
-![](nff1.gif) ![](final.gif)
+![](nff1.gif)![](final.gif)<br>
 [OpenSeas NFF#1(Original)](https://bit.ly/3mQZ9n3)
 
-
+---
 ### Attributions
 The initial source of data is the University of Maryland's [Global Forest Watch](https://data.globalforestwatch.org/) Data.
 Source: Hansen/UMD/Google/USGS/NASA
