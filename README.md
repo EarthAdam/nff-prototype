@@ -1,5 +1,5 @@
-# nff-prototype
-First stab at NFF
+# NFF (Non Fungible Forests)
+The purpose of this project is to build an NFT Collection where every NFT represents one hectare of Earth. Satellite imagery is used to determine the historical quality of vegetation within the hectare, and as organizations integrate carbon pricing into Environmental Sustainability Governance (ESG), this market of environmental integrity histories will help us save the world from a climate disaster.
 
 ## NFF Collection
 A library of early prototypes of the NFF functionality. Initially just getting bare bones functionality working
