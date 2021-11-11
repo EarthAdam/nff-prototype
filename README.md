@@ -16,7 +16,7 @@ A library of early prototypes of the NFF functionality. Initially just getting b
 ![](nff_c1_1_actual.gif)![](collection1_nff1.gif)<br>
 
 
-###Collectible #1: 
+### Collectible #1: 
 This one is a NDVI timelapse from NASA's EODIS Worldview<br>
 [https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/23855157975821296213591829291147014821979655616936360978435112360207414460417](https://bit.ly/3EPZix8)<br>
 ![](collection.gif)![](final_collection.gif)<br>
