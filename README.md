@@ -1,5 +1,5 @@
 # NFF (Non Fungible Forests)
-The purpose of this project is to build an NFT Collection where every NFT represents one hectare of Earth. Satellite imagery is used to determine the historical quality of vegetation within the hectare, and as organizations integrate carbon pricing into Environmental Sustainability Governance (ESG), this market of environmental integrity histories will help us save the world from a climate disaster.
+The purpose of this project is to build an NFT Collection where every NFT represents one hectare of Earth. Satellite imagery is used to determine the historical quality of vegetation within the hectare, and as organizations integrate carbon pricing into Environmental Sustainability Governance (ESG), this market of environmental integrity histories will allow us to experiment with how we attribute value to carbon practices.
 
 ## Approach to linking NTFs to ecosystem integrity
 By linking each hectare to an NFT, we are building a collection of largely agreed upon metrics to evaluate the ecological integrity of that hectare, and then let the market determine the value of the sustainability of that hectare. As adoption grows, and more demand for environmental accountability increases, this is a prototype of how we could accelerate sustainable ecosystem practices. 
